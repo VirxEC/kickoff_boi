@@ -1,4 +1,4 @@
-# Kickoff Boi
+# Kickoff Kam
 
 This bot is actually just Kamael by Impossibum, but trimmed down to only include her kickoffs.
 
